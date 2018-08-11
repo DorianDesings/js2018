@@ -1,4 +1,4 @@
-/* 
+/*
 Ordena 3 números de mayor a menor
 Permutaciones con 3 elementos
 Posibilidades 3! = 3*2*1 = 6
