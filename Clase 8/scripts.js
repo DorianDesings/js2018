@@ -27,4 +27,3 @@ else console.log(`${num} es impar`); */
         console.log(`${num} es impar`),
         console.log(`${num} es impar`)
     )
-
