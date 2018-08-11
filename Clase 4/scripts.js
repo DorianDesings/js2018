@@ -1,4 +1,6 @@
-/*Objeto Math
+/*
+
+Objeto Math
 
 Objeto estático
 
