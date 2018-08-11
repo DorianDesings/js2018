@@ -1,5 +1,6 @@
 /*
 Sintaxis Simple
+
 switch(evaluación) {
     case n1: 
         //código
@@ -13,6 +14,7 @@ switch(evaluación) {
 }
 
 Sintaxis Múltiple
+
 switch(evaluación) {
     case n1:
     case n2:
