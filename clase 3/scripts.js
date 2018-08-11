@@ -116,10 +116,3 @@ console.log("Hola " + nombre + " " + apellido + ". Tienes " + (edad+1) + " años
 console.log(`Hola ${nombre} ${apellido}. Tienes ${edad} años.`);
 
 console.log(`Hola ${nombre} ${apellido}. El año que viene tendrás ${edad+1} años.`);
-
-
-
-
-
-
-
