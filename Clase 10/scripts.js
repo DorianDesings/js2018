@@ -17,12 +17,10 @@ let numbers = [1,2,3,4,5,1];
 //console.log(Array.isArray(number));
 //console.log(Array.isArray(numbers));
 
-
-
 /*
-        Eliminar un elemento
-            .shift() - Elimina el primer elemento del array y devuelve ese elemento
-            .pop() - Elimina el último elemento de un array y devuelve ese elemento
+    Eliminar un elemento
+        .shift() - Elimina el primer elemento del array y devuelve ese elemento
+        .pop() - Elimina el último elemento de un array y devuelve ese elemento
 */
 
 //console.log(numbers);
@@ -34,10 +32,10 @@ let numbers = [1,2,3,4,5,1];
 //console.log(numbers);
 
 /*
-        Añadir elementos
-            .push(element1, element2,...) - Añade uno o más elementos al final del array y devuelve la nueva longitud.
+    Añadir elementos
+        .push(element1, element2,...) - Añade uno o más elementos al final del array y devuelve la nueva longitud.
 
-            .unshift(element1, element2,...) - Añade uno o más elementos al comienzo del array y devuelve la nueva longitud.
+        .unshift(element1, element2,...) - Añade uno o más elementos al comienzo del array y devuelve la nueva longitud.
 */
 
 //console.log(numbers);
@@ -48,21 +46,21 @@ let numbers = [1,2,3,4,5,1];
 //console.log(numbers);
 
 /*    
-        .indexOf() - Devuelve el primer índice del elemento que coincida con el valor especificado, o -1 si ninguno es encontrado.
+    .indexOf() - Devuelve el primer índice del elemento que coincida con el valor especificado, o -1 si ninguno es encontrado.
 */
 
 //console.log(numbers);
 //console.log(numbers.indexOf(1));
 
 /* 
-        .lastIndexOf() - Devuelve el último índice del elemento que coincida con el valor especificado, o -1 si ninguno es encontrado.
+    .lastIndexOf() - Devuelve el último índice del elemento que coincida con el valor especificado, o -1 si ninguno es encontrado.
 */
 
 //console.log(numbers);
 //console.log(numbers.lastIndexOf(1));
 
 /* 
-        .reverse() - Invierte el orden de los elementos del array.
+    .reverse() - Invierte el orden de los elementos del array.
 */
 
 //console.log(numbers);
@@ -70,7 +68,7 @@ let numbers = [1,2,3,4,5,1];
 //console.log(numbers);
 
 /*       
-        .join('separador') - Devuelve un string con el separador que indiquemos, por defecto son comas 
+    .join('separador') - Devuelve un string con el separador que indiquemos, por defecto son comas 
 */
 
 //console.log(numbers);
@@ -79,10 +77,10 @@ let numbers = [1,2,3,4,5,1];
 //console.log(numbers.join('-'));
 
 /*     
-        .splice(a,b,items) - Cambia el contenido de un array eliminando elementos existentes y/o agregando nuevos elementos.
-            a - Indice de inicio
-            b - Número de elementos (opcional)
-            items - Elementos a añadir en el caso de que se añadan. (opcional)
+    .splice(a,b,items) - Cambia el contenido de un array eliminando elementos existentes y/o agregando nuevos elementos.
+        a - Indice de inicio
+        b - Número de elementos (opcional)
+        items - Elementos a añadir en el caso de que se añadan. (opcional)
 */
 
 //console.log(numbers);
@@ -93,7 +91,7 @@ let numbers = [1,2,3,4,5,1];
 //console.log(numbers);
 
 /* 
-        .slice(a,b) - Extrae elementos de un array desde el índice a hasta el índice b. Si no existe b lo hace desde a hasta el final, si no existe ni a ni b hace una copia del original.
+    .slice(a,b) - Extrae elementos de un array desde el índice a hasta el índice b. Si no existe b lo hace desde a hasta el final, si no existe ni a ni b hace una copia del original.
 */
 
 //let newNumbers = numbers.slice();
