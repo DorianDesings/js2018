@@ -4,7 +4,7 @@ Realiza el ejercicio con prompt(mensaje) y haz uso de los template strings
 2 - Escribe un programa que pueda calcular el área de 3 figuras geométricas, triángulo, rectángulo y círculo. En primer lugar pregunta de qué figura se quiere calcular el área y después solicita los datos que necesites para calcularlo.
     triángulo = b*h/2
     rectángulo = b*h
-    círculo = π * r2
+    círculo = π * r2 (pi x radio al cuadrado)
 
 3 - Solicita un número e imprime todos los números pares e impares desde 1 hasta ese número con el mensaje "es par" o "es impar"
     si el número es 5 el resultado será:
