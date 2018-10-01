@@ -32,6 +32,6 @@ Realiza el ejercicio con prompt(mensaje) y haz uso de los template strings
 
 const letras = ['T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E', 'T'];
 
-9 - Solicitar al usuario una palabra y mostrar por cosola el número de consonantes, vocales y longitud de la palabra.
+9 - Solicitar al usuario una palabra y mostrar por consola el número de consonantes, vocales y longitud de la palabra.
 
 10 - Dado un array que contiene ["azul", "amarillo", "rojo", "verde", "rosa"] determinar si un color introducido por el usuario a través de un prompt se encuentra dentro del array o no.
