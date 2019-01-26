@@ -1,0 +1,11 @@
+/* NO SE DEBE SELECCIONAR CON ETIQUETAS, ESTO ES PARA AGILIZAR EL VÍDEO */
+
+table {
+    margin-top: 2em;
+    border-collapse: collapse;
+}
+
+th, td, tr {
+    border: 1px solid black;
+    text-align: center;
+}
