@@ -11,7 +11,6 @@ const getUser = (id) => {
     })
 }
 
-
 const getEmail = (user) => {
     const email = emails.find(email => email.id == user.id)
     return promise = new Promise((resolve, reject) => {
