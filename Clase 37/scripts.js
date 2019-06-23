@@ -37,7 +37,6 @@ button.addEventListener('click', () => {
 })
 
 /*
-
 button.addEventListener('click', () => {
     let xhr
     if (window.XMLHttpRequest) xhr = new XMLHttpRequest()
