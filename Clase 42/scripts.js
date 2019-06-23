@@ -1,5 +1,4 @@
 const button = document.getElementById('button')
-
 //res = response = respuesta
 /* button.addEventListener('click', () => {
     const newPost = {
