@@ -2,8 +2,7 @@
     Expresiones regulares:
         Son una secuencia de caracteres que forma un patrón de búsqueda, principalmente utilizada para la búsqueda de patrones de cadenas de caracteres u operaciones de sustituciones.
 
-    Página para evaluar expresiones regulares:
-        https://regex101.com/
+    Página para evaluar expresiones regulares: https://regex101.com/
 
     sintaxis:
         /patron/
