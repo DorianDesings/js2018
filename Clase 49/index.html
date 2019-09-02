@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>API Web Storage</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+  <body>
+    <form id="form" class="form">
+      <div class="form__field">
+        <label for="key">Key</label>
+        <input type="text" id="key" name="key">
+      </div>
+      <div class="form__field">
+        <label for="value">Value</label>
+        <input type="text" id="value" name="value">
+      </div>
+      <input type="submit" value="Save">
+    </form>
+
+    <div id="info" class="info">
+      <select name="keys" id="keys">
+        <option value="default">Select key</option>
+      </select>
+      <p id="infoValue"></p>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+
+</html>
