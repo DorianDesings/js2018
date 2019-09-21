@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #26ff0085;
+  font-family: sans-serif;
+}
+
+.smile {
+  width: 50px;
+}
+
+.drop-zone {
+  height: 100px;
+  border: 2px dotted black;
+  width: 100px;
+  margin-top: 3rem;
+}
