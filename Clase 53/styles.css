@@ -1,0 +1,41 @@
+:root {
+  --bar-width: 0;
+}
+
+body {
+  margin: 0;
+  background-color: #ec407a;
+  font-family: sans-serif;
+  color: #fff;
+  user-select: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.load-bar {
+  width: 50%;
+  background-color: #ccc;
+  height: 10px;
+  position: relative;
+  margin: 1rem 0;
+}
+
+.load-bar::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: royalblue;
+  width: var(--bar-width);
+  height: 10px;
+}
+
+.progress {
+  display: block;
+  background-color: royalblue;
+  height: 10px;
+  width: 0;
+}
