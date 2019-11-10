@@ -16,7 +16,7 @@ dropZone.addEventListener('dragleave', (e) => {
 dropZone.addEventListener('drop', (e) => {
     e.preventDefault()
     fileInput.files = e.dataTransfer.files
-    console.log(fileInput.files);
+    // console.log(fileInput.files);
 })
 
 fileInput.addEventListener('change', (e) => {
