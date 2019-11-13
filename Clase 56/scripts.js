@@ -1,3 +1,5 @@
+//Especificación oficial: https://developer.mozilla.org/es/docs/IndexedDB-840092-dup
+
 const indexedDB = window.indexedDB
 const form = document.getElementById('form')
 
