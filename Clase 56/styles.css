@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #2f3238;
+  font-family: sans-serif;
+  color: #ccc;
+  user-select: none;
+}
+
+.form {
+  width: 100%;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.button {
+  background: orangered;
+  border: none;
+  padding: 0.2rem 0.8rem;
+  border-radius: 15px;
+  color: #ccc;
+  cursor: pointer;
+}
