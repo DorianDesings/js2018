@@ -1,0 +1,34 @@
+body {
+  background-color: #2a2a2a;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+  overflow: auto;
+}
+
+.box {
+  background-color: rgb(81, 0, 128);
+  color: #fff;
+  font-size: 2rem;
+  margin-bottom: 100vh;
+  padding: 1.5rem 0;
+  position: relative;
+}
+
+/* .box::after {
+  content: "50%";
+  position: absolute;
+  top: 0;
+  display: block;
+  width: 100%;
+  background-color: peru;
+  height: 50%;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+img {
+  max-width: 100%;
+}
