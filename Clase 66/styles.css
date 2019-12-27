@@ -6,10 +6,11 @@ body {
 }
 
 .title{
-  color:#fff
+  color:#fff;
+  text-align: center;
 }
 
-@media screen and (min-width:800px){
+@media screen and (min-width:400px){
   body{
     background-color: #fff;
   }
