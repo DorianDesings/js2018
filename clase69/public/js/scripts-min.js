@@ -1,1 +1,0 @@
-"use strict";var numbers=[1,2,3,4,5],printNumber=function(){var r;(r=console).log.apply(r,numbers)};
