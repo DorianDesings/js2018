@@ -1,5 +1,5 @@
 /* 
-    Tutorial chrome https://developers.google.com/web/tools/chrome-devtools/javascript?hl=es
+Tutorial chrome https://developers.google.com/web/tools/chrome-devtools/javascript?hl=es
 */
 
 const form = document.getElementById('form')
