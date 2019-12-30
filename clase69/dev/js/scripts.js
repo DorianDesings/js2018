@@ -1,8 +1,7 @@
 //npm install @babel/cli @babel/core @babel/polyfill @babel/preset-env @babel/register gulp gulp-babel gulp-concat gulp-plumber gulp-uglify --save-dev
 
-const numbers = [1, 2, 3, 4, 5]
+const numbers = [1, 2, 3, 4]
 
-const printNumber = () => {
+const printNumbers = () => {
     console.log(...numbers)
 }
-
